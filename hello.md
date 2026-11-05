@@ -3,15 +3,9 @@
 ========================================
 
 
+I made a changeeee!!!
 
 
-2. INITIALIZING & CLONING
--------------------------
-Initialize a new local Git repository:
-  git init
-
-Clone an existing remote repository:
-  git clone <repository-url>
 
 
 3. BASIC WORKFLOW (STAGING & COMMITTING)
