@@ -2,14 +2,7 @@
        BASIC GIT COMMANDS CHEATSHEET
 ========================================
 
-1. CONFIGURATION
-----------------
-Set your name and email (used in commit history):
-  git config --global user.name "Your Name"
-  git config --global user.email "your.email@example.com"
 
-Check configuration:
-  git config --list
 
 
 2. INITIALIZING & CLONING
